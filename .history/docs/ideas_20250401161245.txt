@@ -1,2 +1,1 @@
-hi
 We are planning on working a project that invovles doing fullstack development, deep learning, game designs, algorithms, or just something cool in general. Cool ideas for real. 
